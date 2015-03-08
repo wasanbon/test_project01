@@ -1,4 +1,10 @@
-TestIn: {description: '', git: 'https://github.com/sugarsweetrobotics/TestIn_cpp.git',
-  hash: 91dfe921393c40f1214b26d4751452eea43cc9ba}
-TestOut: {description: '', git: 'https://github.com/sugarsweetrobotics/TestOut_cpp.git',
-  hash: d22d52e2947305a70e57f5924e55740c1675b2d2}
+TestIn_cpp:
+  description: TestIn Component
+  hash: e97e97def30ec0fb6aae80c95d0b32a36833c434
+  type: git
+  url: https://github.com/sugarsweetrobotics/TestIn_cpp.git
+TestOut_cpp:
+  description: TestOut Component
+  hash: 960c5372d16cd6ae0cda67ae0819654f4add746c
+  type: git
+  url: https://github.com/sugarsweetrobotics/TestOut_cpp.git
