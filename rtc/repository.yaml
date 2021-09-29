@@ -1,10 +1,10 @@
 TestIn_cpp:
   description: TestIn Component
-  git: https://github.com/sugarsweetrobotics/TestIn_cpp.git
-  hash: d36dbf4b74fa801f2c5a50733dc1aed08099cc50
+  git: https://github.com/wasanbon/TestIn_cpp.git
+  hash: 49231b1594c14c59e8cb7b9b23a3cb8cde969bcf
   repo_name: TestIn_cpp
 TestOut_cpp:
   description: TestOut Component
-  git: https://github.com/sugarsweetrobotics/TestOut_cpp.git
-  hash: c51b0bf5c20f594307594f532baf4ef018e3415e
+  git: https://github.com/wasanbon/TestOut_cpp.git
+  hash: 3f0adc5a25ccac2276d478f9ce6c95cae71cc09a
   repo_name: TestOut_cpp
